@@ -160,9 +160,9 @@ otomatik olarak tespit edip bildirir.
 
 | Ad Soyad | Katkı / Görev | GitHub |
 |---|---|---|
-| Burak Efe Arslan | Kuyruk modellerinin (M/M/1, M/M/c) matematiksel formüllerinin uygulanması, Erlang-C hesaplamalarının doğrulanması | [@burakefearslanturk](https://github.com/burakefearslanturk) |
+| Burak Efe Arslantürk | Kuyruk modellerinin (M/M/1, M/M/c) matematiksel formüllerinin uygulanması, Erlang-C hesaplamalarının doğrulanması | [@burakefearslanturk](https://github.com/burakefearslanturk) |
 | Ceren Gündüz | Depo kurulumu, README dosyasının hazırlanması, görselleştirmelerin depoya entegrasyonu | [@cerengunduz](https://github.com/cerengunduz) |
-| Şevval Bengü | Maliyet optimizasyonu senaryolarının tasarlanması, optimum gişe sayısı analizinin test edilmesi | [@sevvalbengu](https://github.com/sevvalbengu) |
+| Şevval Bengü Gündüz | Maliyet optimizasyonu senaryolarının tasarlanması, optimum gişe sayısı analizinin test edilmesi | [@sevvalbengu](https://github.com/sevvalbengu) |
 
 ## Lisans
 
